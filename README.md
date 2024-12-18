@@ -1,4 +1,4 @@
-# Active Directory Virtual Lab
+# Windows Active Directory Virtual Lab
 
 ## Project Overview
 This project demonstrates the deployment and management of an Active Directory (AD) environment in a virtual lab. It includes setting up a domain controller, configuring DNS, managing users and groups, implementing Group Policy Objects (GPOs), and integrating a client machine.
