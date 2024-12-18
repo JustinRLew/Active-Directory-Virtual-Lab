@@ -9,6 +9,7 @@ This project demonstrates the deployment and management of an Active Directory (
 - Administer users, groups, and organizational units.
 - Implement and test Group Policy Objects.
 - Integrate a client machine into the domain.
+- Enhance security through auditing and advanced GPO configurations.
 
 ## Tools and Resources
 - **Windows Server ISO:** Evaluation version from Microsoft.
@@ -22,9 +23,10 @@ This project demonstrates the deployment and management of an Active Directory (
 3. Organizational Units for logical resource management.
 4. Group Policy Objects for enforcing security and user settings.
 5. Integrated client machine for testing domain functionality.
+6. Advanced security policies with auditing and GPO configurations.
 
 ## Key Learnings
 - Centralized management with Active Directory.
 - Importance of DNS in domain environments.
 - Role of GPOs in securing and standardizing systems.
-- Troubleshooting and testing AD environments.
+- Auditing and troubleshooting security configurations.
